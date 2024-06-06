@@ -70,6 +70,10 @@ void main()
   {
     print(" ! Game Tied  !\n");
   }
+  else
+  {
+    retstart()
+  }
 }
 
 void Pattern(List OX) {
