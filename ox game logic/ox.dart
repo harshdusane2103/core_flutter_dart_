@@ -70,6 +70,7 @@ void main()
   {
     print(" ! Game Tied  !\n");
   }
+  
   else
   {
     retstart()
@@ -88,7 +89,7 @@ void Pattern(List OX) {
     }
     print("");
     if (i < 2) {
-      print("\t ================");
+      print(" ================");
     }
   }
 }
